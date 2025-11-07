@@ -1,0 +1,620 @@
+Roll_No,Room_No,Teacher,Subject
+2510201001..,Examination Hall,Er.Anurag Sharma,Applied Mathematics I
+2510201002..,A-120,Er.Nivedita Kashyap,Applied Physics I
+2510201003..,A-119,Er.Navdeep Sharma,Programming in C
+2510201004..,A-104,Er.Sandeep Thakur,Data Structures
+2510201005..,D-204,Er.Munish Patial,Digital Electronics
+2510201006..,D-205,Er.Saurav Mehta,Object Oriented Programming using C++
+2510201007..,D-219,Dr.Pradeep Thakur,Operating System
+2510201008..,D-220,Dr.Reena Sharma,Database Management System
+2510201009..,D-221,Dr.Sanjay Kumar,Artificial Intelligence
+2510201010..,Examination Hall,Dr.Divya Sharma,Machine Learning
+2510201011..,A-120,Mr.Kuldeep Thakur,Applied Mathematics I
+2510201012..,A-119,Ms.Nutan Chauhan,Basic Electrical Engineering
+2510201013..,A-104,Er.Gaurav Mahajan,Analog Electronics
+2510201014..,D-204,Er.Rohit Vasudeva,Network Analysis
+2510201015..,D-205,Er.Nikhil Rathore,Control Systems
+2510201016..,D-219,Er.Anuj Gupta,Power Systems I
+2510201017..,D-220,Er.Arvind Sharma,Power Systems II
+2510201018..,D-221,Er.Awin Gupta,High Voltage Engineering
+2510206001..,Examination Hall,Er.Anurag Sharma,Engineering Mechanics
+2510206002..,A-120,Er.Nivedita Kashyap,Engineering Drawing
+2510206003..,A-119,Er.Navdeep Sharma,Strength of Materials
+2510206004..,A-104,Er.Sandeep Thakur,Fluid Mechanics
+2510206005..,D-204,Er.Munish Patial,Transportation Engineering
+2510206006..,D-205,Er.Saurav Mehta,Structural Analysis II
+2510206007..,D-219,Dr.Pradeep Thakur,Design of Steel Structures
+2510206008..,D-220,Dr.Reena Sharma,Irrigation Engineering
+2510206009..,D-221,Dr.Sanjay Kumar,Engineering Chemistry
+2510206010..,Examination Hall,Dr.Divya Sharma,Applied Physics I
+2510206011..,A-120,Mr.Kuldeep Thakur,Analog Circuits
+2510206012..,A-119,Ms.Nutan Chauhan,Signals and Systems
+2510206013..,A-104,Er.Gaurav Mahajan,Digital Communication
+2510206014..,D-204,Er.Rohit Vasudeva,Control Systems
+2510206015..,D-205,Er.Nikhil Rathore,Microwave Engineering
+2510206016..,D-219,Er.Anuj Gupta,Wireless Communication
+2510206017..,D-220,Er.Arvind Sharma,Applied Mathematics I
+2510206018..,D-221,Er.Awin Gupta,Applied Physics I
+2510206019..,Examination Hall,Er.Anurag Sharma,Programming in C
+2510206020..,A-120,Er.Nivedita Kashyap,Data Structures
+2510206021..,A-119,Er.Navdeep Sharma,Digital Electronics
+2510206022..,A-104,Er.Sandeep Thakur,Object Oriented Programming using C++
+2510206023..,D-204,Er.Munish Patial,Operating System
+2510206024..,D-205,Er.Saurav Mehta,Database Management System
+2510206025..,D-219,Dr.Pradeep Thakur,Artificial Intelligence
+2510206026..,D-220,Dr.Reena Sharma,Machine Learning
+2510206027..,D-221,Dr.Sanjay Kumar,Applied Mathematics I
+2510206028..,Examination Hall,Dr.Divya Sharma,Basic Electrical Engineering
+2510206029..,A-120,Mr.Kuldeep Thakur,Analog Electronics
+2510206030..,A-119,Ms.Nutan Chauhan,Network Analysis
+2510206031..,A-104,Er.Gaurav Mahajan,Control Systems
+2510206032..,D-204,Er.Rohit Vasudeva,Power Systems I
+2510206033..,D-205,Er.Nikhil Rathore,Power Systems II
+2510206034..,D-219,Er.Anuj Gupta,High Voltage Engineering
+2510206035..,D-220,Er.Arvind Sharma,Engineering Mechanics
+2510206036..,D-221,Er.Awin Gupta,Engineering Drawing
+2510206037..,Examination Hall,Er.Anurag Sharma,Strength of Materials
+2510206038..,A-120,Er.Nivedita Kashyap,Fluid Mechanics
+2510206039..,A-119,Er.Navdeep Sharma,Transportation Engineering
+2510206040..,A-104,Er.Sandeep Thakur,Structural Analysis II
+2510206041..,D-204,Er.Munish Patial,Design of Steel Structures
+2510206042..,D-205,Er.Saurav Mehta,Irrigation Engineering
+2510206043..,D-219,Dr.Pradeep Thakur,Engineering Chemistry
+2510206044..,D-220,Dr.Reena Sharma,Applied Physics I
+2510206045..,D-221,Dr.Sanjay Kumar,Analog Circuits
+2510206046..,Examination Hall,Dr.Divya Sharma,Signals and Systems
+2510206047..,A-120,Mr.Kuldeep Thakur,Digital Communication
+2510206048..,A-119,Ms.Nutan Chauhan,Control Systems
+2510206049..,A-104,Er.Gaurav Mahajan,Microwave Engineering
+2510206050..,D-204,Er.Rohit Vasudeva,Wireless Communication
+2510206051..,D-205,Er.Nikhil Rathore,Applied Mathematics I
+2510206052..,D-219,Er.Anuj Gupta,Applied Physics I
+2510206053..,D-220,Er.Arvind Sharma,Programming in C
+2510206054..,D-221,Er.Awin Gupta,Data Structures
+2510206055..,Examination Hall,Er.Anurag Sharma,Digital Electronics
+240206010074..,A-120,Er.Nivedita Kashyap,Object Oriented Programming using C++
+240206010076..,A-119,Er.Navdeep Sharma,Operating System
+240206010077..,A-104,Er.Sandeep Thakur,Database Management System
+240206010078..,D-204,Er.Munish Patial,Artificial Intelligence
+240206010079..,D-205,Er.Saurav Mehta,Machine Learning
+240206010080..,D-219,Dr.Pradeep Thakur,Applied Mathematics I
+240206010081..,D-220,Dr.Reena Sharma,Basic Electrical Engineering
+240206010082..,D-221,Dr.Sanjay Kumar,Analog Electronics
+240206010083..,Examination Hall,Dr.Divya Sharma,Network Analysis
+240206010084..,A-120,Mr.Kuldeep Thakur,Control Systems
+240206010085..,A-119,Ms.Nutan Chauhan,Power Systems I
+240206010086..,A-104,Er.Gaurav Mahajan,Power Systems II
+240206010087..,D-204,Er.Rohit Vasudeva,High Voltage Engineering
+240206010088..,D-205,Er.Nikhil Rathore,Engineering Mechanics
+240206010089..,D-219,Er.Anuj Gupta,Engineering Drawing
+240206010090..,D-220,Er.Arvind Sharma,Strength of Materials
+240206010091..,D-221,Er.Awin Gupta,Fluid Mechanics
+240206010092..,Examination Hall,Er.Anurag Sharma,Transportation Engineering
+240206010093..,A-120,Er.Nivedita Kashyap,Structural Analysis II
+240206010094..,A-119,Er.Navdeep Sharma,Design of Steel Structures
+240206010095..,A-104,Er.Sandeep Thakur,Irrigation Engineering
+240206010096..,D-204,Er.Munish Patial,Engineering Chemistry
+240206010097..,D-205,Er.Saurav Mehta,Applied Physics I
+240206010098..,D-219,Dr.Pradeep Thakur,Analog Circuits
+240206010099..,D-220,Dr.Reena Sharma,Signals and Systems
+240206010100..,D-221,Dr.Sanjay Kumar,Digital Communication
+240206010101..,Examination Hall,Dr.Divya Sharma,Control Systems
+240206010103..,A-120,Mr.Kuldeep Thakur,Microwave Engineering
+240206010104..,A-119,Ms.Nutan Chauhan,Wireless Communication
+240206010105..,A-104,Er.Gaurav Mahajan,Applied Mathematics I
+240206010106..,D-204,Er.Rohit Vasudeva,Applied Physics I
+240206010107..,D-205,Er.Nikhil Rathore,Programming in C
+240206010108..,D-219,Er.Anuj Gupta,Data Structures
+240206010109..,D-220,Er.Arvind Sharma,Digital Electronics
+240206010110..,D-221,Er.Awin Gupta,Object Oriented Programming using C++
+240206010111..,Examination Hall,Er.Anurag Sharma,Operating System
+240206010112..,A-120,Er.Nivedita Kashyap,Database Management System
+240206010113..,A-119,Er.Navdeep Sharma,Artificial Intelligence
+240206010115..,A-104,Er.Sandeep Thakur,Machine Learning
+240206010116..,D-204,Er.Munish Patial,Applied Mathematics I
+240206010117..,D-205,Er.Saurav Mehta,Basic Electrical Engineering
+240206010118..,D-219,Dr.Pradeep Thakur,Analog Electronics
+240206010119..,D-220,Dr.Reena Sharma,Network Analysis
+240206010121..,D-221,Dr.Sanjay Kumar,Control Systems
+240206010123..,Examination Hall,Dr.Divya Sharma,Power Systems I
+240206010124..,A-120,Mr.Kuldeep Thakur,Power Systems II
+240206010125..,A-119,Ms.Nutan Chauhan,High Voltage Engineering
+240206010126..,A-104,Er.Gaurav Mahajan,Engineering Mechanics
+23010204018..,D-204,Er.Rohit Vasudeva,Engineering Drawing
+23010204001..,D-205,Er.Nikhil Rathore,Strength of Materials
+23010204002..,D-219,Er.Anuj Gupta,Fluid Mechanics
+23010204003..,D-220,Er.Arvind Sharma,Transportation Engineering
+23010204004..,D-221,Er.Awin Gupta,Structural Analysis II
+23010204005..,Examination Hall,Er.Anurag Sharma,Design of Steel Structures
+23010204006..,A-120,Er.Nivedita Kashyap,Irrigation Engineering
+23010204007..,A-119,Er.Navdeep Sharma,Engineering Chemistry
+23010204008..,A-104,Er.Sandeep Thakur,Applied Physics I
+23010204009..,D-204,Er.Munish Patial,Analog Circuits
+23010204010..,D-205,Er.Saurav Mehta,Signals and Systems
+23010204011..,D-219,Dr.Pradeep Thakur,Digital Communication
+23010204012..,D-220,Dr.Reena Sharma,Control Systems
+23010204013..,D-221,Dr.Sanjay Kumar,Microwave Engineering
+23010204014..,Examination Hall,Dr.Divya Sharma,Wireless Communication
+23010204015..,A-120,Mr.Kuldeep Thakur,Applied Mathematics I
+23010204016..,A-119,Ms.Nutan Chauhan,Applied Physics I
+23010204017..,A-104,Er.Gaurav Mahajan,Programming in C
+23010204019..,D-204,Er.Rohit Vasudeva,Data Structures
+23010204020..,D-205,Er.Nikhil Rathore,Digital Electronics
+23010204021..,D-219,Er.Anuj Gupta,Object Oriented Programming using C++
+23010204022..,D-220,Er.Arvind Sharma,Operating System
+23010204023..,D-221,Er.Awin Gupta,Database Management System
+23010204024..,Examination Hall,Er.Anurag Sharma,Artificial Intelligence
+23010204027..,A-120,Er.Nivedita Kashyap,Machine Learning
+23010204028..,A-119,Er.Navdeep Sharma,Applied Mathematics I
+23010204029..,A-104,Er.Sandeep Thakur,Basic Electrical Engineering
+23010204030..,D-204,Er.Munish Patial,Analog Electronics
+23010204031..,D-205,Er.Saurav Mehta,Network Analysis
+23010204032..,D-219,Dr.Pradeep Thakur,Control Systems
+23010204033..,D-220,Dr.Reena Sharma,Power Systems I
+23010204034..,D-221,Dr.Sanjay Kumar,Power Systems II
+23010204035..,Examination Hall,Dr.Divya Sharma,High Voltage Engineering
+23010204036..,A-120,Mr.Kuldeep Thakur,Engineering Mechanics
+23010204037..,A-119,Ms.Nutan Chauhan,Engineering Drawing
+23010204038..,A-104,Er.Gaurav Mahajan,Strength of Materials
+23010204039..,D-204,Er.Rohit Vasudeva,Fluid Mechanics
+23010204040..,D-205,Er.Nikhil Rathore,Transportation Engineering
+23010204041..,D-219,Er.Anuj Gupta,Structural Analysis II
+23010204042..,D-220,Er.Arvind Sharma,Design of Steel Structures
+240206020006..,D-221,Er.Awin Gupta,Irrigation Engineering
+240206020007..,Examination Hall,Er.Anurag Sharma,Engineering Chemistry
+240206020008..,A-120,Er.Nivedita Kashyap,Applied Physics I
+240206020009..,A-119,Er.Navdeep Sharma,Analog Circuits
+240206020010..,A-104,Er.Sandeep Thakur,Signals and Systems
+240206020011..,D-204,Er.Munish Patial,Digital Communication
+240206020012..,D-205,Er.Saurav Mehta,Control Systems
+240206020013..,D-219,Dr.Pradeep Thakur,Microwave Engineering
+240206020014..,D-220,Dr.Reena Sharma,Wireless Communication
+22010204001..,D-221,Dr.Sanjay Kumar,Applied Mathematics I
+22010204002..,Examination Hall,Dr.Divya Sharma,Applied Physics I
+22010204002..,A-120,Mr.Kuldeep Thakur,Programming in C
+22010204003..,A-119,Ms.Nutan Chauhan,Data Structures
+22010204004..,A-104,Er.Gaurav Mahajan,Digital Electronics
+22010204005..,D-204,Er.Rohit Vasudeva,Object Oriented Programming using C++
+22010204006..,D-205,Er.Nikhil Rathore,Operating System
+22010204007..,D-219,Er.Anuj Gupta,Database Management System
+22010204008..,D-220,Er.Arvind Sharma,Artificial Intelligence
+22010204010..,D-221,Er.Awin Gupta,Machine Learning
+22010204011..,Examination Hall,Er.Anurag Sharma,Applied Mathematics I
+22010204012..,A-120,Er.Nivedita Kashyap,Basic Electrical Engineering
+22010204013..,A-119,Er.Navdeep Sharma,Analog Electronics
+22010204014..,A-104,Er.Sandeep Thakur,Network Analysis
+22010204015..,D-204,Er.Munish Patial,Control Systems
+22010204016..,D-205,Er.Saurav Mehta,Power Systems I
+22010204017..,D-219,Dr.Pradeep Thakur,Power Systems II
+22010204018..,D-220,Dr.Reena Sharma,High Voltage Engineering
+22010204019..,D-221,Dr.Sanjay Kumar,Engineering Mechanics
+22010204020..,Examination Hall,Dr.Divya Sharma,Engineering Drawing
+22010204021..,A-120,Mr.Kuldeep Thakur,Strength of Materials
+22010204022..,A-119,Ms.Nutan Chauhan,Fluid Mechanics
+22010204023..,A-104,Er.Gaurav Mahajan,Transportation Engineering
+22010204024..,D-204,Er.Rohit Vasudeva,Structural Analysis II
+22010204025..,D-205,Er.Nikhil Rathore,Design of Steel Structures
+22010204026..,D-219,Er.Anuj Gupta,Irrigation Engineering
+22010204027..,D-220,Er.Arvind Sharma,Engineering Chemistry
+22010204028..,D-221,Er.Awin Gupta,Applied Physics I
+22010204029..,Examination Hall,Er.Anurag Sharma,Analog Circuits
+22010204030..,A-120,Er.Nivedita Kashyap,Signals and Systems
+22010204031..,A-119,Er.Navdeep Sharma,Digital Communication
+23020204001..,A-104,Er.Sandeep Thakur,Control Systems
+23020204002..,D-204,Er.Munish Patial,Microwave Engineering
+23020204003..,D-205,Er.Saurav Mehta,Wireless Communication
+23020204005..,D-219,Dr.Pradeep Thakur,Applied Mathematics I
+23020204006..,D-220,Dr.Reena Sharma,Applied Physics I
+23020204007..,D-221,Dr.Sanjay Kumar,Programming in C
+23020204009..,Examination Hall,Dr.Divya Sharma,Data Structures
+2510203001..,A-120,Mr.Kuldeep Thakur,Digital Electronics
+2510203002..,A-119,Ms.Nutan Chauhan,Object Oriented Programming using C++
+2510203003..,A-104,Er.Gaurav Mahajan,Operating System
+2510203004..,D-204,Er.Rohit Vasudeva,Database Management System
+2510203005..,D-205,Er.Nikhil Rathore,Artificial Intelligence
+2510203006..,D-219,Er.Anuj Gupta,Machine Learning
+2510203007..,D-220,Er.Arvind Sharma,Applied Mathematics I
+2510203008..,D-221,Er.Awin Gupta,Basic Electrical Engineering
+2510203009..,Examination Hall,Er.Anurag Sharma,Analog Electronics
+2510203010..,A-120,Er.Nivedita Kashyap,Network Analysis
+2510203011..,A-119,Er.Navdeep Sharma,Control Systems
+2510203012..,A-104,Er.Sandeep Thakur,Power Systems I
+2510203013..,D-204,Er.Munish Patial,Power Systems II
+2510203014..,D-205,Er.Saurav Mehta,High Voltage Engineering
+2510203015..,D-219,Dr.Pradeep Thakur,Engineering Mechanics
+2510203016..,D-220,Dr.Reena Sharma,Engineering Drawing
+2510203017..,D-221,Dr.Sanjay Kumar,Strength of Materials
+2510203018..,Examination Hall,Dr.Divya Sharma,Fluid Mechanics
+2510203019..,A-120,Mr.Kuldeep Thakur,Transportation Engineering
+2510203020..,A-119,Ms.Nutan Chauhan,Structural Analysis II
+2510203021..,A-104,Er.Gaurav Mahajan,Design of Steel Structures
+2510203022..,D-204,Er.Rohit Vasudeva,Irrigation Engineering
+2510203023..,D-205,Er.Nikhil Rathore,Engineering Chemistry
+2510203024..,D-219,Er.Anuj Gupta,Applied Physics I
+2510203025..,D-220,Er.Arvind Sharma,Analog Circuits
+2510203026..,D-221,Er.Awin Gupta,Signals and Systems
+2510203027..,Examination Hall,Er.Anurag Sharma,Digital Communication
+2510203028..,A-120,Er.Nivedita Kashyap,Control Systems
+2510203029..,A-119,Er.Navdeep Sharma,Microwave Engineering
+2510203030..,A-104,Er.Sandeep Thakur,Wireless Communication
+2510203031..,D-204,Er.Munish Patial,Applied Mathematics I
+2510203032..,D-205,Er.Saurav Mehta,Applied Physics I
+2510203033..,D-219,Dr.Pradeep Thakur,Programming in C
+2510203034..,D-220,Dr.Reena Sharma,Data Structures
+2510203035..,D-221,Dr.Sanjay Kumar,Digital Electronics
+2510203036..,Examination Hall,Dr.Divya Sharma,Object Oriented Programming using C++
+2510203037..,A-120,Mr.Kuldeep Thakur,Operating System
+2510203038..,A-119,Ms.Nutan Chauhan,Database Management System
+2510203039..,A-104,Er.Gaurav Mahajan,Artificial Intelligence
+2510203040..,D-204,Er.Rohit Vasudeva,Machine Learning
+2510203041..,D-205,Er.Nikhil Rathore,Applied Mathematics I
+2510203042..,D-219,Er.Anuj Gupta,Basic Electrical Engineering
+2510203043..,D-220,Er.Arvind Sharma,Analog Electronics
+2510203044..,D-221,Er.Awin Gupta,Network Analysis
+2510203045..,Examination Hall,Er.Anurag Sharma,Control Systems
+2510203046..,A-120,Er.Nivedita Kashyap,Power Systems I
+2510203047..,A-119,Er.Navdeep Sharma,Power Systems II
+2510203048..,A-104,Er.Sandeep Thakur,High Voltage Engineering
+2510203049..,D-204,Er.Munish Patial,Engineering Mechanics
+2510203050..,D-205,Er.Saurav Mehta,Engineering Drawing
+2510203051..,D-219,Dr.Pradeep Thakur,Strength of Materials
+2510203052..,D-220,Dr.Reena Sharma,Fluid Mechanics
+2510203053..,D-221,Dr.Sanjay Kumar,Transportation Engineering
+2510203054..,Examination Hall,Dr.Divya Sharma,Structural Analysis II
+2510203055..,A-120,Mr.Kuldeep Thakur,Design of Steel Structures
+2510203056..,A-119,Ms.Nutan Chauhan,Irrigation Engineering
+2510203057..,A-104,Er.Gaurav Mahajan,Engineering Chemistry
+2510203058..,D-204,Er.Rohit Vasudeva,Applied Physics I
+2510203059..,D-205,Er.Nikhil Rathore,Analog Circuits
+2510203060..,D-219,Er.Anuj Gupta,Signals and Systems
+2510203061..,D-220,Er.Arvind Sharma,Digital Communication
+2510203062..,D-221,Er.Awin Gupta,Control Systems
+240206030001..,Examination Hall,Er.Anurag Sharma,Microwave Engineering
+240206030002..,A-120,Er.Nivedita Kashyap,Wireless Communication
+240206030003..,A-119,Er.Navdeep Sharma,Applied Mathematics I
+240206030004..,A-104,Er.Sandeep Thakur,Applied Physics I
+240206030005..,D-204,Er.Munish Patial,Programming in C
+240206030006..,D-205,Er.Saurav Mehta,Data Structures
+240206030007..,D-219,Dr.Pradeep Thakur,Digital Electronics
+240206030008..,D-220,Dr.Reena Sharma,Object Oriented Programming using C++
+240206030009..,D-221,Dr.Sanjay Kumar,Operating System
+240206030010..,Examination Hall,Dr.Divya Sharma,Database Management System
+240206030011..,A-120,Mr.Kuldeep Thakur,Artificial Intelligence
+240206030012..,A-119,Ms.Nutan Chauhan,Machine Learning
+240206030013..,A-104,Er.Gaurav Mahajan,Applied Mathematics I
+240206030014..,D-204,Er.Rohit Vasudeva,Basic Electrical Engineering
+240206030015..,D-205,Er.Nikhil Rathore,Analog Electronics
+240206030016..,D-219,Er.Anuj Gupta,Network Analysis
+240206030017..,D-220,Er.Arvind Sharma,Control Systems
+240206030018..,D-221,Er.Awin Gupta,Power Systems I
+240206030019..,Examination Hall,Er.Anurag Sharma,Power Systems II
+240206030020..,A-120,Er.Nivedita Kashyap,High Voltage Engineering
+240206030021..,A-119,Er.Navdeep Sharma,Engineering Mechanics
+240206030022..,A-104,Er.Sandeep Thakur,Engineering Drawing
+240206030023..,D-204,Er.Munish Patial,Strength of Materials
+240206030024..,D-205,Er.Saurav Mehta,Fluid Mechanics
+240206030025..,D-219,Dr.Pradeep Thakur,Transportation Engineering
+240206030026..,D-220,Dr.Reena Sharma,Structural Analysis II
+240206030027..,D-221,Dr.Sanjay Kumar,Design of Steel Structures
+240206030028..,Examination Hall,Dr.Divya Sharma,Irrigation Engineering
+240206030029..,A-120,Mr.Kuldeep Thakur,Engineering Chemistry
+240206030030..,A-119,Ms.Nutan Chauhan,Applied Physics I
+240206030031..,A-104,Er.Gaurav Mahajan,Analog Circuits
+240206030032..,D-204,Er.Rohit Vasudeva,Signals and Systems
+240206030033..,D-205,Er.Nikhil Rathore,Digital Communication
+240206030034..,D-219,Er.Anuj Gupta,Control Systems
+240206030035..,D-220,Er.Arvind Sharma,Microwave Engineering
+240206030036..,D-221,Er.Awin Gupta,Wireless Communication
+240206030037..,Examination Hall,Er.Anurag Sharma,Applied Mathematics I
+240206030038..,A-120,Er.Nivedita Kashyap,Applied Physics I
+240206030039..,A-119,Er.Navdeep Sharma,Programming in C
+240206030040..,A-104,Er.Sandeep Thakur,Data Structures
+23010203001..,D-204,Er.Munish Patial,Digital Electronics
+23010203002..,D-205,Er.Saurav Mehta,Object Oriented Programming using C++
+23010203003..,D-219,Dr.Pradeep Thakur,Operating System
+23010203004..,D-220,Dr.Reena Sharma,Database Management System
+23010203005..,D-221,Dr.Sanjay Kumar,Artificial Intelligence
+23010203006..,Examination Hall,Dr.Divya Sharma,Machine Learning
+23010203007..,A-120,Mr.Kuldeep Thakur,Applied Mathematics I
+23010203008..,A-119,Ms.Nutan Chauhan,Basic Electrical Engineering
+23010203009..,A-104,Er.Gaurav Mahajan,Analog Electronics
+23010203010..,D-204,Er.Rohit Vasudeva,Network Analysis
+23010203011..,D-205,Er.Nikhil Rathore,Control Systems
+23010203012..,D-219,Er.Anuj Gupta,Power Systems I
+23010203013..,D-220,Er.Arvind Sharma,Power Systems II
+23010203014..,D-221,Er.Awin Gupta,High Voltage Engineering
+23010203015..,Examination Hall,Er.Anurag Sharma,Engineering Mechanics
+23010203016..,A-120,Er.Nivedita Kashyap,Engineering Drawing
+23010203017..,A-119,Er.Navdeep Sharma,Strength of Materials
+23010203018..,A-104,Er.Sandeep Thakur,Fluid Mechanics
+23010203019..,D-204,Er.Munish Patial,Transportation Engineering
+23010203020..,D-205,Er.Saurav Mehta,Structural Analysis II
+23010203021..,D-219,Dr.Pradeep Thakur,Design of Steel Structures
+23010203022..,D-220,Dr.Reena Sharma,Irrigation Engineering
+23010203023..,D-221,Dr.Sanjay Kumar,Engineering Chemistry
+23010203024..,Examination Hall,Dr.Divya Sharma,Applied Physics I
+23010203025..,A-120,Mr.Kuldeep Thakur,Analog Circuits
+23010203026..,A-119,Ms.Nutan Chauhan,Signals and Systems
+23010203027..,A-104,Er.Gaurav Mahajan,Digital Communication
+23010203028..,D-204,Er.Rohit Vasudeva,Control Systems
+23010203029..,D-205,Er.Nikhil Rathore,Microwave Engineering
+23010203030..,D-219,Er.Anuj Gupta,Wireless Communication
+23010203031..,D-220,Er.Arvind Sharma,Applied Mathematics I
+23010203032..,D-221,Er.Awin Gupta,Applied Physics I
+23010203033..,Examination Hall,Er.Anurag Sharma,Programming in C
+23010203034..,A-120,Er.Nivedita Kashyap,Data Structures
+23010203035..,A-119,Er.Navdeep Sharma,Digital Electronics
+23010203036..,A-104,Er.Sandeep Thakur,Object Oriented Programming using C++
+23010203037..,D-204,Er.Munish Patial,Operating System
+23010203038..,D-205,Er.Saurav Mehta,Database Management System
+23010203039..,D-219,Dr.Pradeep Thakur,Artificial Intelligence
+23010203040..,D-220,Dr.Reena Sharma,Machine Learning
+240206030041..,D-221,Dr.Sanjay Kumar,Applied Mathematics I
+240206030042..,Examination Hall,Dr.Divya Sharma,Basic Electrical Engineering
+22010203001..,A-120,Mr.Kuldeep Thakur,Analog Electronics
+22010203002..,A-119,Ms.Nutan Chauhan,Network Analysis
+22010203003..,A-104,Er.Gaurav Mahajan,Control Systems
+22010203004..,D-204,Er.Rohit Vasudeva,Power Systems I
+22010203005..,D-205,Er.Nikhil Rathore,Power Systems II
+22010203006..,D-219,Er.Anuj Gupta,High Voltage Engineering
+22010203007..,D-220,Er.Arvind Sharma,Engineering Mechanics
+22010203008..,D-221,Er.Awin Gupta,Engineering Drawing
+22010203009..,Examination Hall,Er.Anurag Sharma,Strength of Materials
+22010203010..,A-120,Er.Nivedita Kashyap,Fluid Mechanics
+22010203011..,A-119,Er.Navdeep Sharma,Transportation Engineering
+22010203012..,A-104,Er.Sandeep Thakur,Structural Analysis II
+22010203013..,D-204,Er.Munish Patial,Design of Steel Structures
+22010203014..,D-205,Er.Saurav Mehta,Irrigation Engineering
+22010203015..,D-219,Dr.Pradeep Thakur,Engineering Chemistry
+22010203016..,D-220,Dr.Reena Sharma,Applied Physics I
+22010203017..,D-221,Dr.Sanjay Kumar,Analog Circuits
+22010203018..,Examination Hall,Dr.Divya Sharma,Signals and Systems
+22010203019..,A-120,Mr.Kuldeep Thakur,Digital Communication
+22010203020..,A-119,Ms.Nutan Chauhan,Control Systems
+22010203021..,A-104,Er.Gaurav Mahajan,Microwave Engineering
+22010203022..,D-204,Er.Rohit Vasudeva,Wireless Communication
+22010203023..,D-205,Er.Nikhil Rathore,Applied Mathematics I
+22010203024..,D-219,Er.Anuj Gupta,Applied Physics I
+22010203025..,D-220,Er.Arvind Sharma,Programming in C
+22010203026..,D-221,Er.Awin Gupta,Data Structures
+22010203027..,Examination Hall,Er.Anurag Sharma,Digital Electronics
+22010203028..,A-120,Er.Nivedita Kashyap,Object Oriented Programming using C++
+22010203029..,A-119,Er.Navdeep Sharma,Operating System
+22010203030..,A-104,Er.Sandeep Thakur,Database Management System
+23020203001..,D-204,Er.Munish Patial,Artificial Intelligence
+23020203002..,D-205,Er.Saurav Mehta,Machine Learning
+23020203003..,D-219,Dr.Pradeep Thakur,Applied Mathematics I
+23020203004..,D-220,Dr.Reena Sharma,Basic Electrical Engineering
+23020203005..,D-221,Dr.Sanjay Kumar,Analog Electronics
+23020203006..,Examination Hall,Dr.Divya Sharma,Network Analysis
+23020203007..,A-120,Mr.Kuldeep Thakur,Control Systems
+23020203008..,A-119,Ms.Nutan Chauhan,Power Systems I
+23020203009..,A-104,Er.Gaurav Mahajan,Power Systems II
+23020203010..,D-204,Er.Rohit Vasudeva,High Voltage Engineering
+2510207001..,D-205,Er.Nikhil Rathore,Engineering Mechanics
+2510207002..,D-219,Er.Anuj Gupta,Engineering Drawing
+2510207003..,D-220,Er.Arvind Sharma,Strength of Materials
+2510207004..,D-221,Er.Awin Gupta,Fluid Mechanics
+2510207005..,Examination Hall,Er.Anurag Sharma,Transportation Engineering
+2510207006..,A-120,Er.Nivedita Kashyap,Structural Analysis II
+2510207007..,A-119,Er.Navdeep Sharma,Design of Steel Structures
+2510207008..,A-104,Er.Sandeep Thakur,Irrigation Engineering
+2510207009..,D-204,Er.Munish Patial,Engineering Chemistry
+2510207010..,D-205,Er.Saurav Mehta,Applied Physics I
+2510207011..,D-219,Dr.Pradeep Thakur,Analog Circuits
+2510207012..,D-220,Dr.Reena Sharma,Signals and Systems
+2510207013..,D-221,Dr.Sanjay Kumar,Digital Communication
+2510207014..,Examination Hall,Dr.Divya Sharma,Control Systems
+2510207015..,A-120,Mr.Kuldeep Thakur,Microwave Engineering
+2510207016..,A-119,Ms.Nutan Chauhan,Wireless Communication
+2510207017..,A-104,Er.Gaurav Mahajan,Applied Mathematics I
+2510207018..,D-204,Er.Rohit Vasudeva,Applied Physics I
+2510207019..,D-205,Er.Nikhil Rathore,Programming in C
+2510207020..,D-219,Er.Anuj Gupta,Data Structures
+2510207021..,D-220,Er.Arvind Sharma,Digital Electronics
+2510207022..,D-221,Er.Awin Gupta,Object Oriented Programming using C++
+2510207023..,Examination Hall,Er.Anurag Sharma,Operating System
+2510207024..,A-120,Er.Nivedita Kashyap,Database Management System
+2510207025..,A-119,Er.Navdeep Sharma,Artificial Intelligence
+2510207026..,A-104,Er.Sandeep Thakur,Machine Learning
+2510207027..,D-204,Er.Munish Patial,Applied Mathematics I
+2510207028..,D-205,Er.Saurav Mehta,Basic Electrical Engineering
+2510207029..,D-219,Dr.Pradeep Thakur,Analog Electronics
+2510207030..,D-220,Dr.Reena Sharma,Network Analysis
+2510207031..,D-221,Dr.Sanjay Kumar,Control Systems
+2510207032..,Examination Hall,Dr.Divya Sharma,Power Systems I
+2510207033..,A-120,Mr.Kuldeep Thakur,Power Systems II
+2510207034..,A-119,Ms.Nutan Chauhan,High Voltage Engineering
+2510207035..,A-104,Er.Gaurav Mahajan,Engineering Mechanics
+2510207036..,D-204,Er.Rohit Vasudeva,Engineering Drawing
+2510207037..,D-205,Er.Nikhil Rathore,Strength of Materials
+2510207038..,D-219,Er.Anuj Gupta,Fluid Mechanics
+2510207039..,D-220,Er.Arvind Sharma,Transportation Engineering
+2510207040..,D-221,Er.Awin Gupta,Structural Analysis II
+240207010001..,Examination Hall,Er.Anurag Sharma,Design of Steel Structures
+240207010002..,A-120,Er.Nivedita Kashyap,Irrigation Engineering
+240207010004..,A-119,Er.Navdeep Sharma,Engineering Chemistry
+240207010005..,A-104,Er.Sandeep Thakur,Applied Physics I
+240207010006..,D-204,Er.Munish Patial,Analog Circuits
+240207010007..,D-205,Er.Saurav Mehta,Signals and Systems
+240207010008..,D-219,Dr.Pradeep Thakur,Digital Communication
+240207010009..,D-220,Dr.Reena Sharma,Control Systems
+240207010010..,D-221,Dr.Sanjay Kumar,Microwave Engineering
+240207010011..,Examination Hall,Dr.Divya Sharma,Wireless Communication
+240207010012..,A-120,Mr.Kuldeep Thakur,Applied Mathematics I
+240207010015..,A-119,Ms.Nutan Chauhan,Applied Physics I
+240207010016..,A-104,Er.Gaurav Mahajan,Programming in C
+240207010017..,D-204,Er.Rohit Vasudeva,Data Structures
+240207010018..,D-205,Er.Nikhil Rathore,Digital Electronics
+240207010019..,D-219,Er.Anuj Gupta,Object Oriented Programming using C++
+240207010020..,D-220,Er.Arvind Sharma,Operating System
+240207010021..,D-221,Er.Awin Gupta,Database Management System
+240207010022..,Examination Hall,Er.Anurag Sharma,Artificial Intelligence
+240207010023..,A-120,Er.Nivedita Kashyap,Machine Learning
+240207010024..,A-119,Er.Navdeep Sharma,Applied Mathematics I
+240207010025..,A-104,Er.Sandeep Thakur,Basic Electrical Engineering
+240207010026..,D-204,Er.Munish Patial,Analog Electronics
+240207010028..,D-205,Er.Saurav Mehta,Network Analysis
+240207010029..,D-219,Dr.Pradeep Thakur,Control Systems
+240207010030..,D-220,Dr.Reena Sharma,Power Systems I
+240207010031..,D-221,Dr.Sanjay Kumar,Power Systems II
+240207010032..,Examination Hall,Dr.Divya Sharma,High Voltage Engineering
+240207010033..,A-120,Mr.Kuldeep Thakur,Engineering Mechanics
+240207010034..,A-119,Ms.Nutan Chauhan,Engineering Drawing
+240207010035..,A-104,Er.Gaurav Mahajan,Strength of Materials
+240207010036..,D-204,Er.Rohit Vasudeva,Fluid Mechanics
+240207010037..,D-205,Er.Nikhil Rathore,Transportation Engineering
+240207010039..,D-219,Er.Anuj Gupta,Structural Analysis II
+240207010040..,D-220,Er.Arvind Sharma,Design of Steel Structures
+240207010041..,D-221,Er.Awin Gupta,Irrigation Engineering
+240207010042..,Examination Hall,Er.Anurag Sharma,Engineering Chemistry
+240207010043..,A-120,Er.Nivedita Kashyap,Applied Physics I
+240207010044..,A-119,Er.Navdeep Sharma,Analog Circuits
+240207010045..,A-104,Er.Sandeep Thakur,Signals and Systems
+240207010046..,D-204,Er.Munish Patial,Digital Communication
+240207010047..,D-205,Er.Saurav Mehta,Control Systems
+240207010048..,D-219,Dr.Pradeep Thakur,Microwave Engineering
+240207010049..,D-220,Dr.Reena Sharma,Wireless Communication
+240207010050..,D-221,Dr.Sanjay Kumar,Applied Mathematics I
+240207010051..,Examination Hall,Dr.Divya Sharma,Applied Physics I
+240207010052..,A-120,Mr.Kuldeep Thakur,Programming in C
+240207010053..,A-119,Ms.Nutan Chauhan,Data Structures
+240207010054..,A-104,Er.Gaurav Mahajan,Digital Electronics
+240207010055..,D-204,Er.Rohit Vasudeva,Object Oriented Programming using C++
+2520207001..,D-205,Er.Nikhil Rathore,Operating System
+2520207002..,D-219,Er.Anuj Gupta,Database Management System
+2520207003..,D-220,Er.Arvind Sharma,Artificial Intelligence
+2520207004..,D-221,Er.Awin Gupta,Machine Learning
+2520207005..,Examination Hall,Er.Anurag Sharma,Applied Mathematics I
+2520207006..,A-120,Er.Nivedita Kashyap,Basic Electrical Engineering
+2520207007..,A-119,Er.Navdeep Sharma,Analog Electronics
+2520207008..,A-104,Er.Sandeep Thakur,Network Analysis
+2520207009..,D-204,Er.Munish Patial,Control Systems
+2520207010..,D-205,Er.Saurav Mehta,Power Systems I
+2520207011..,D-219,Dr.Pradeep Thakur,Power Systems II
+2520207012..,D-220,Dr.Reena Sharma,High Voltage Engineering
+2520207013..,D-221,Dr.Sanjay Kumar,Engineering Mechanics
+2520207014..,Examination Hall,Dr.Divya Sharma,Engineering Drawing
+2520207015..,A-120,Mr.Kuldeep Thakur,Strength of Materials
+2520207016..,A-119,Ms.Nutan Chauhan,Fluid Mechanics
+23010205001..,A-104,Er.Gaurav Mahajan,Transportation Engineering
+23010205002..,D-204,Er.Rohit Vasudeva,Structural Analysis II
+23010205003..,D-205,Er.Nikhil Rathore,Design of Steel Structures
+23010205005..,D-219,Er.Anuj Gupta,Irrigation Engineering
+23010205006..,D-220,Er.Arvind Sharma,Engineering Chemistry
+23010205007..,D-221,Er.Awin Gupta,Applied Physics I
+23010205008..,Examination Hall,Er.Anurag Sharma,Analog Circuits
+23010205009..,A-120,Er.Nivedita Kashyap,Signals and Systems
+23010205010..,A-119,Er.Navdeep Sharma,Digital Communication
+23010205011..,A-104,Er.Sandeep Thakur,Control Systems
+23010205012..,D-204,Er.Munish Patial,Microwave Engineering
+23010205013..,D-205,Er.Saurav Mehta,Wireless Communication
+23010205014..,D-219,Dr.Pradeep Thakur,Applied Mathematics I
+23010205015..,D-220,Dr.Reena Sharma,Applied Physics I
+23010205016..,D-221,Dr.Sanjay Kumar,Programming in C
+23010205017..,Examination Hall,Dr.Divya Sharma,Data Structures
+23010205019..,A-120,Mr.Kuldeep Thakur,Digital Electronics
+23010205020..,A-119,Ms.Nutan Chauhan,Object Oriented Programming using C++
+23010205021..,A-104,Er.Gaurav Mahajan,Operating System
+23010205022..,D-204,Er.Rohit Vasudeva,Database Management System
+23010205023..,D-205,Er.Nikhil Rathore,Artificial Intelligence
+23010205024..,D-219,Er.Anuj Gupta,Machine Learning
+23010205025..,D-220,Er.Arvind Sharma,Applied Mathematics I
+23010205026..,D-221,Er.Awin Gupta,Basic Electrical Engineering
+23010205027..,Examination Hall,Er.Anurag Sharma,Analog Electronics
+23010205028..,A-120,Er.Nivedita Kashyap,Network Analysis
+23010205029..,A-119,Er.Navdeep Sharma,Control Systems
+23010205030..,A-104,Er.Sandeep Thakur,Power Systems I
+23010205031..,D-204,Er.Munish Patial,Power Systems II
+23010205032..,D-205,Er.Saurav Mehta,High Voltage Engineering
+23010205033..,D-219,Dr.Pradeep Thakur,Engineering Mechanics
+23010205034..,D-220,Dr.Reena Sharma,Engineering Drawing
+23010205035..,D-221,Dr.Sanjay Kumar,Strength of Materials
+23010205036..,Examination Hall,Dr.Divya Sharma,Fluid Mechanics
+23010205037..,A-120,Mr.Kuldeep Thakur,Transportation Engineering
+23010205038..,A-119,Ms.Nutan Chauhan,Structural Analysis II
+23010205039..,A-104,Er.Gaurav Mahajan,Design of Steel Structures
+23010205040..,D-204,Er.Rohit Vasudeva,Irrigation Engineering
+23010205041..,D-205,Er.Nikhil Rathore,Engineering Chemistry
+23010205043..,D-219,Er.Anuj Gupta,Applied Physics I
+23010205044..,D-220,Er.Arvind Sharma,Analog Circuits
+23010205045..,D-221,Er.Awin Gupta,Signals and Systems
+23010205047..,Examination Hall,Er.Anurag Sharma,Digital Communication
+23010205048..,A-120,Er.Nivedita Kashyap,Control Systems
+23010205049..,A-119,Er.Navdeep Sharma,Microwave Engineering
+23010205051..,A-104,Er.Sandeep Thakur,Wireless Communication
+23010205052..,D-204,Er.Munish Patial,Applied Mathematics I
+23010205053..,D-205,Er.Saurav Mehta,Applied Physics I
+23010205055..,D-219,Dr.Pradeep Thakur,Programming in C
+23010205056..,D-220,Dr.Reena Sharma,Data Structures
+22010205042..,D-221,Dr.Sanjay Kumar,Digital Electronics
+240207020001..,Examination Hall,Dr.Divya Sharma,Object Oriented Programming using C++
+240207020002..,A-120,Mr.Kuldeep Thakur,Operating System
+240207020003..,A-119,Ms.Nutan Chauhan,Database Management System
+240207020005..,A-104,Er.Gaurav Mahajan,Artificial Intelligence
+240207020006..,D-204,Er.Rohit Vasudeva,Machine Learning
+240207020009..,D-205,Er.Nikhil Rathore,Applied Mathematics I
+240207020010..,D-219,Er.Anuj Gupta,Basic Electrical Engineering
+240207020011..,D-220,Er.Arvind Sharma,Analog Electronics
+240207020012..,D-221,Er.Awin Gupta,Network Analysis
+240207020013..,Examination Hall,Er.Anurag Sharma,Control Systems
+220102050001,A-120,Er.Nivedita Kashyap,Power Systems I
+22010205004..,A-119,Er.Navdeep Sharma,Power Systems II
+22010205002..,A-104,Er.Sandeep Thakur,High Voltage Engineering
+22010205003..,D-204,Er.Munish Patial,Engineering Mechanics
+22010205005..,D-205,Er.Saurav Mehta,Engineering Drawing
+22010205006..,D-219,Dr.Pradeep Thakur,Strength of Materials
+22010205007..,D-220,Dr.Reena Sharma,Fluid Mechanics
+22010205008..,D-221,Dr.Sanjay Kumar,Transportation Engineering
+22010205010..,Examination Hall,Dr.Divya Sharma,Structural Analysis II
+22010205011..,A-120,Mr.Kuldeep Thakur,Design of Steel Structures
+22010205012..,A-119,Ms.Nutan Chauhan,Irrigation Engineering
+22010205013..,A-104,Er.Gaurav Mahajan,Engineering Chemistry
+22010205015..,D-204,Er.Rohit Vasudeva,Applied Physics I
+22010205016..,D-205,Er.Nikhil Rathore,Analog Circuits
+22010205017..,D-219,Er.Anuj Gupta,Signals and Systems
+22010205018..,D-220,Er.Arvind Sharma,Digital Communication
+22010205019..,D-221,Er.Awin Gupta,Control Systems
+22010205020..,Examination Hall,Er.Anurag Sharma,Microwave Engineering
+22010205021..,A-120,Er.Nivedita Kashyap,Wireless Communication
+22010205022..,A-119,Er.Navdeep Sharma,Applied Mathematics I
+22010205023..,A-104,Er.Sandeep Thakur,Applied Physics I
+22010205024..,D-204,Er.Munish Patial,Programming in C
+22010205025..,D-205,Er.Saurav Mehta,Data Structures
+22010205026..,D-219,Dr.Pradeep Thakur,Digital Electronics
+22010205028..,D-220,Dr.Reena Sharma,Object Oriented Programming using C++
+22010205029..,D-221,Dr.Sanjay Kumar,Operating System
+22010205030..,Examination Hall,Dr.Divya Sharma,Database Management System
+22010205031..,A-120,Mr.Kuldeep Thakur,Artificial Intelligence
+22010205032..,A-119,Ms.Nutan Chauhan,Machine Learning
+22010205033..,A-104,Er.Gaurav Mahajan,Applied Mathematics I
+22010205036..,D-204,Er.Rohit Vasudeva,Basic Electrical Engineering
+22010205037..,D-205,Er.Nikhil Rathore,Analog Electronics
+22010205038..,D-219,Er.Anuj Gupta,Network Analysis
+22010205039..,D-220,Er.Arvind Sharma,Control Systems
+22010205040..,D-221,Er.Awin Gupta,Power Systems I
+22010205044..,Examination Hall,Er.Anurag Sharma,Power Systems II
+22010205045..,A-120,Er.Nivedita Kashyap,High Voltage Engineering
+22010205046..,A-119,Er.Navdeep Sharma,Engineering Mechanics
+22010205047..,A-104,Er.Sandeep Thakur,Engineering Drawing
+22010205048..,D-204,Er.Munish Patial,Strength of Materials
+22010205049..,D-205,Er.Saurav Mehta,Fluid Mechanics
+22010205050..,D-219,Dr.Pradeep Thakur,Transportation Engineering
+22010205051..,D-220,Dr.Reena Sharma,Structural Analysis II
+22010205052..,D-221,Dr.Sanjay Kumar,Design of Steel Structures
+22010205053..,Examination Hall,Dr.Divya Sharma,Irrigation Engineering
+22010205054..,A-120,Mr.Kuldeep Thakur,Engineering Chemistry
+22010205055..,A-119,Ms.Nutan Chauhan,Applied Physics I
+22010205056..,A-104,Er.Gaurav Mahajan,Analog Circuits
+22010205057..,D-204,Er.Rohit Vasudeva,Signals and Systems
+22010205058..,D-205,Er.Nikhil Rathore,Digital Communication
+23020205002..,D-219,Er.Anuj Gupta,Control Systems
+23020205003..,D-220,Er.Arvind Sharma,Microwave Engineering
+23020205004..,D-221,Er.Awin Gupta,Wireless Communication
+23020205005..,Examination Hall,Er.Anurag Sharma,Applied Mathematics I
+23020205006..,A-120,Er.Nivedita Kashyap,Applied Physics I
+23020205007..,A-119,Er.Navdeep Sharma,Programming in C
+23020205008..,A-104,Er.Sandeep Thakur,Data Structures
+23020205009..,D-204,Er.Munish Patial,Digital Electronics
+21010205032..,D-205,Er.Saurav Mehta,Object Oriented Programming using C++
+21010205025..,D-219,Dr.Pradeep Thakur,Operating System

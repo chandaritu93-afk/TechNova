@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Exam Automation System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+<div class="container py-5">
+    <div class="card shadow-lg p-4">
+        <h2 class="text-center text-primary mb-4">🎓 College Exam Automation</h2>
+        <p class="text-center text-muted">Upload CSV files below and generate Sitting Plan, Teacher Duties, and Datesheet easily!</p>
+        <hr>
+
+        <!-- Sitting Plan -->
+        <form action="/upload" method="post" enctype="multipart/form-data" class="mb-4">
+            <h4 class="text-success">🪑 Generate Sitting Plan</h4>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label class="form-label fw-bold">Student CSV:</label>
+                    <input type="file" name="student" accept=".csv" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label fw-bold">Teacher CSV:</label>
+                    <input type="file" name="teacher" accept=".csv" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label fw-bold">Room CSV:</label>
+                    <input type="file" name="room" accept=".csv" class="form-control" required>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Generate Sitting Plan</button>
+        </form>
+
+        <!-- Teacher Duty -->
+        <form action="/duty" method="post" enctype="multipart/form-data" class="mb-4">
+            <h4 class="text-warning">👩‍🏫 Generate Teacher Duty</h4>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Teacher CSV:</label>
+                <input type="file" name="teacher" accept=".csv" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-warning w-100">Generate Teacher Duty</button>
+        </form>
+
+        <!-- Datesheet -->
+        <form action="/datesheet" method="post" enctype="multipart/form-data">
+            <h4 class="text-info">📅 Generate DateSheet</h4>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Subjects CSV:</label>
+                <input type="file" name="subjects" accept=".csv" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-info w-100">Generate DateSheet</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>

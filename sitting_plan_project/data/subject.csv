@@ -1,0 +1,35 @@
+Branch,Semester,Subject_Code,Subject_Name
+CSE,1,CSE101,Applied Mathematics I
+CSE,1,CSE102,Applied Physics I
+CSE,1,CSE103,Programming in C
+CSE,3,CSE301,Data Structures
+CSE,3,CSE302,Digital Electronics
+CSE,3,CSE303,Object Oriented Programming using C++
+CSE,5,CSE501,Operating System
+CSE,5,CSE502,Database Management System
+CSE,7,CSE701,Artificial Intelligence
+CSE,7,CSE702,Machine Learning
+EE,1,EE101,Applied Mathematics I
+EE,1,EE102,Basic Electrical Engineering
+EE,3,EE301,Analog Electronics
+EE,3,EE302,Network Analysis
+EE,5,EE501,Control Systems
+EE,5,EE502,Power Systems I
+EE,7,EE701,Power Systems II
+EE,7,EE702,High Voltage Engineering
+CE,1,CE101,Engineering Mechanics
+CE,1,CE102,Engineering Drawing
+CE,3,CE301,Strength of Materials
+CE,3,CE302,Fluid Mechanics
+CE,5,CE501,Transportation Engineering
+CE,5,CE502,Structural Analysis II
+CE,7,CE701,Design of Steel Structures
+CE,7,CE702,Irrigation Engineering
+ECE,1,ECE101,Engineering Chemistry
+ECE,1,ECE102,Applied Physics I
+ECE,3,ECE301,Analog Circuits
+ECE,3,ECE302,Signals and Systems
+ECE,5,ECE501,Digital Communication
+ECE,5,ECE502,Control Systems
+ECE,7,ECE701,Microwave Engineering
+ECE,7,ECE702,Wireless Communication
