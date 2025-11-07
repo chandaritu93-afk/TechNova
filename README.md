@@ -10,13 +10,13 @@
 ---
 
 ## 👩‍💻 Team Members  
-- Ritika Ritu (CSE, B.Tech 4th Semester)  
-- [Add teammate names here if any]
+- Ritika masand (CSE, B.Tech 7th Semester)  
+- Madhu(CSE,B.Tech,3rd Semester
 
 ---
 
 ## 📞 Contact  
-Email: sneha200419@gmail.com  
+Email: chanadaritu93@gmail.com  
 GitHub: [https://github.com/chandaritu93-afk/TechNova](https://github.com/chandaritu93-afk/TechNova)
 
 ---
